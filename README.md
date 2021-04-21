@@ -28,4 +28,8 @@ You can click the Preview link to take a look at your changes.
 
 #### Skills
 
-🧠HTML5. CSS3. SQL. MongoDB. Wordpress.
+🧠 HTML/CSS/JS, Django, REST_API, Wordpress, Bootstrap Design
+
+#### Learning
+
+🌱 Single Page Application 
