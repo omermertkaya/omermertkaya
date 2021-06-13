@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
 #### Education
 
 :school: 2014-2019 : Suleyman Demirel University -> Computer Eng.
+
 :school: 2009-2013 : Tuzluçayır Anatolian High School -> Science
 
 
