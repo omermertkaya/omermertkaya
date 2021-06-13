@@ -15,6 +15,7 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hi, I am Mert
 ### Work Experience
 
+    2021- now : Junior Broadcast System Eng. at Turk Telekom 
     2020-2021 : Reserve Officer, Computer Eng. at National Defense Department
     2015-2020 : Sales Consult at LC Waikiki
     2019-2019 : Intern at Data Control Information Technologies
@@ -25,13 +26,6 @@ You can click the Preview link to take a look at your changes.
 #### Education
 
 :school: 2014-2019 : Suleyman Demirel University -> Computer Eng.
-
 :school: 2009-2013 : Tuzluçayır Anatolian High School -> Science
 
-#### Skills
 
-🧠 HTML/CSS/JS, Django, REST_API, Wordpress, Bootstrap Design
-
-#### Learning
-
-🌱 Single Page Application 
