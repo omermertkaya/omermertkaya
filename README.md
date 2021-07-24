@@ -20,9 +20,7 @@ You can click the Preview link to take a look at your changes.
     2015-2020 : Sales Consult at LC Waikiki
     2019-2019 : Intern at Data Control Information Technologies
     2019-2019 : Intern at Ataseven Technology
-    2014-2015 : Wordpress Developer at SonUygulama.com
-    2011-2012 : Wordpress Developer at Fikirkalemi.com
-
+    
 #### Education
 
 :school: 2014-2019 : Suleyman Demirel University -> Computer Engineer
