@@ -24,7 +24,6 @@ You can click the Preview link to take a look at your changes.
 #### Education
 
     Suleyman Demirel University -> Computer Engineer
-
     Tuzluçayır Anatolian High School -> Science
 
 
