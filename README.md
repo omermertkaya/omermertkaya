@@ -23,8 +23,8 @@ You can click the Preview link to take a look at your changes.
     
 #### Education
 
-:school: 2014-2019 : Suleyman Demirel University -> Computer Engineer
+    :school: 2014-2019 : Suleyman Demirel University -> Computer Engineer
 
-:school: 2009-2013 : Tuzluçayır Anatolian High School -> Science
+    :school: 2009-2013 : Tuzluçayır Anatolian High School -> Science
 
 
