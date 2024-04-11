@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hi, I am Mert
 ### Work Experience
 
-    2022-Now  : IDM Assistant Specialist at AgeSA
+    2022-Now  : Identity And Access Management Engineer
     2021-2022 : Junior Broadcast System Engineer at Turk Telekom 
     2020-2021 : Reserve Officer, Computer Engineer at National Defense Department
     2015-2020 : Sales Consult at LC Waikiki
