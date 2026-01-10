@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 # 👋 Hi, I am Mert
 ### Work Experience
 
-    2022-Now  : Cyber Security Engineer(IAM) Engineer at AgeSA
+    2022-2025  : Cyber Security Engineer(IAM) Engineer at AgeSA
     2021-2022 : Junior Broadcast System Engineer at Turk Telekom 
     2020-2021 : Reserve Officer, Computer Engineer at National Defense Department
     2015-2020 : Sales Consult at LC Waikiki
