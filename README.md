@@ -1,29 +1,83 @@
+# 👋 Hi, I'm Mert
 
-<!---
-- 👋 Hi, I’m @omermertkaya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+**Identity & Access Management (IAM) Engineer | Cyber Security Engineer**
 
+I work in **Identity and Access Management**, focusing on IAM, IGA, authentication, authorization, SSO and identity security.
 
-omermertkaya/omermertkaya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🔐 Identity & Access Management
 
-# 👋 Hi, I am Mert
-### Work Experience
-    2026-Now  : Cyber Security Engineer(IAM) Engineer at Monofor
-    2022-2025 : Cyber Security Engineer(IAM) Engineer at AgeSA
-    2021-2022 : Junior Broadcast System Engineer at Turk Telekom 
-    2020-2021 : Reserve Officer, Computer Engineer at National Defense Department
-    2015-2020 : Sales Consult at LC Waikiki
-    2019-2019 : Intern at Data Control Information Technologies
-    2019-2019 : Intern at Ataseven Technology
-    
-#### Education
+* Identity & Access Management (IAM)
+* Identity Governance & Administration (IGA)
+* Identity Management (IDM)
+* Privileged Access Management (PAM)
+* Authentication & Authorization
+* Single Sign-On (SSO)
+* RBAC & ABAC
+* User Provisioning & JML
+* Access Reviews
+* SAML & OpenID Connect (OIDC)
+* Active Directory
+* LDAP
+* SCIM
+* MFA & Passwordless Authentication
+* Identity Security
+* Non-Human & AI Agent Identities
 
-    Suleyman Demirel University -> Computer Engineer
-    Tuzluçayır Anatolian High School -> Science
+### 💼 Work Experience
 
+**2026 – Present**
+Cyber Security Engineer (IAM) — **Monofor**
 
+**2022 – 2025**
+Cyber Security Engineer (IAM) — **AgeSA**
+
+**2021 – 2022**
+Junior Broadcast System Engineer — **Türk Telekom**
+
+**2020 – 2021**
+Reserve Officer, Computer Engineer — **Ministry of National Defense**
+
+**2019 – 2020**
+Sales Consultant — **LC Waikiki**
+
+**2019**
+Intern — **Data Control Information Technologies**
+
+**2019**
+Intern — **Ataseven Technology**
+
+### 🎓 Education
+
+**Süleyman Demirel University**
+Computer Engineering
+
+**Tuzluçayır Anatolian High School**
+Science
+
+### 🛠️ Technologies & Tools
+
+`IAM` `IGA` `IDM` `PAM` `SSO` `SAML` `OIDC` `SCIM` `RBAC` `ABAC`
+`Active Directory` `LDAP` `PowerShell` `JavaScript` `Node.js` `Docker` `Kubernetes` `OpenShift`
+
+### 📚 What I Write About
+
+I share technical content and projects about:
+
+* Identity & Access Management
+* Identity Security
+* Authentication & Authorization
+* IGA / IDM / PAM
+* SSO and Federation
+* SAML / OIDC
+* RBAC / ABAC
+* Identity for AI Agents and Non-Human Identities
+
+### 🌐 Find Me
+
+* [LinkedIn](https://www.linkedin.com/in/omermertkaya)
+* [Personal Website](https://omermertkaya.github.io/)
+* [Medium](https://medium.com/@omermertkaya)
+
+---
+
+**Identity & Access Management Engineer | IAM | IGA | IDM | Identity Security**
