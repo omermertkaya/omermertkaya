@@ -37,7 +37,7 @@ Junior Broadcast System Engineer — **Türk Telekom**
 **2020 – 2021**
 Reserve Officer, Computer Engineer — **Ministry of National Defense**
 
-**2019 – 2020**
+**2015 – 2020**
 Sales Consultant — **LC Waikiki**
 
 **2019**
